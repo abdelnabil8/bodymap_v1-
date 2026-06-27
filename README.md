@@ -13,7 +13,7 @@ npm install
 VITE_GROQ_KEY=dein_groq_key_hier
 VITE_RAPIDAPI_KEY=dein_rapidapi_key_hier
 
-Die Keys bekommst du von Abdellah per WhatsApp.
+Die Keys bekommst du von mir per WhatsApp.
 
 4. App starten:
 npm run dev
@@ -22,7 +22,7 @@ Dann im Browser öffnen: http://localhost:5173
 
 ---
 
-## Was wir verwendet haben
+## verwendet wird
 
 - React + Vite als Frontend Framework
 - Groq API (kostenlos) für die KI-Planerstellung mit dem Modell llama-3.3-70b-versatile
